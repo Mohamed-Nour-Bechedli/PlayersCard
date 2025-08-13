@@ -1,5 +1,4 @@
 import Card from 'react-bootstrap/Card';
-import players from "../players.js";
 
 function Player({name,team, nationality, jersyNumber, image}) {
   return (
